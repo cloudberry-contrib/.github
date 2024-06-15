@@ -7,7 +7,8 @@
 </p>
 
 <h3 align="center">
-    Next Generation Unified Database for Analytics and AI
+    Next Generation Unified Database for Analytics and AI<br>
+    Open Source Alternative to Greenplum Database.
 <br><br>
   
 [![Slack](https://img.shields.io/badge/Slack-6a32c9)](https://communityinviter.com/apps/cloudberrydb/welcome)
