@@ -22,7 +22,3 @@
 ### Want to try it out quickly?
 
 Follow our [Bootcamp program](https://github.com/cloudberrydb/bootcamp) to get started with the Cloudberry Database Sandbox.
-
-### We're hiring
-
-The official team HashData is hiring, welcome to [explore your position](https://app.mokahr.com/recommendation-recruitment/hashdata/58045?recommendCode=NTAW0Al&hash=%23%2Fjobs%3Fpage%3D1%26anchorName%3DjobsList)._<small>(System now only available in Mandarin Chinese)_</small>
