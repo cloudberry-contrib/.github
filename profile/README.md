@@ -1,24 +1,25 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="/img/full_color_black.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="/img/full_color_white.svg">
-    <img alt="Cloudberry Database Logo" src="/img/full_color_black.svg" width="400px">
-  </picture>
-</p>
+## Notable changes
 
-<h3 align="center">
-    Next Generation Unified Database for Analytics and AI<br>
-    Open Source Alternative to Greenplum Database.
-<br><br>
-  
-[![Slack](https://img.shields.io/badge/Slack-6a32c9)](https://communityinviter.com/apps/cloudberrydb/welcome)
-[![Twitter](https://img.shields.io/twitter/follow/cloudberrydb)](https://twitter.com/cloudberrydb)
-[![WeChat](https://img.shields.io/badge/WeChat-eebc46)](https://cloudberrydb.org/community/wechat)
-[![Website](https://img.shields.io/badge/Website-bbec46)](https://cloudberrydb.org)
-[![Youtube](https://img.shields.io/badge/Youtube-gebc46)](https://youtube.com/@cloudberrydb)
-[![Discussions](https://img.shields.io/badge/Forum-gebc46)](https://github.com/orgs/cloudberrydb/discussions)
-</h3>
+> [!note]
+> Cloudberry Database has joined the Apache Software Foundation Incubator and has been renamed to `Apache Cloudberry (Incubating)`. Please note that this organization is not maintained by Cloudberry PPMC.
 
-### Want to try it out quickly?
 
-Follow our [Bootcamp program](https://github.com/cloudberrydb/bootcamp) to get started with the Cloudberry Database Sandbox.
+1. Our main repos have been transferred to ASF, you can find us here:
+
+* https://github.com/apache/cloudberry
+* https://github.com/apache/cloudberry-site
+* https://github.com/apache/cloudberry-bootcamp
+* https://github.com/apache/cloudberry-gpbackup
+* https://github.com/apache/cloudberry-gpbackup-s3-plugin
+* https://github.com/apache/cloudberry-pxf
+* https://github.com/apache/cloudberry-go-libs
+* https://github.com/apache/cloudberry-devops-release
+
+2. Welcome to subscribe to the Apache Cloudberry Dev mailing list: https://github.com/apache/cloudberry/discussions/686
+3. Apache Cloudberry website and its social media channels:
+
+- website: http://cloudberry.apache.org/
+- https://x.com/ASFCloudberry
+- https://www.youtube.com/@ApacheCloudberry
+- https://apache-cloudberry.slack.com
+- https://linkedin.com/company/apache-cloudberry
