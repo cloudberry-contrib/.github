@@ -1,10 +1,11 @@
 ## Notable changes
 
 > [!note]
-> Cloudberry Database has joined the Apache Software Foundation Incubator and has been renamed to `Apache Cloudberry (Incubating)`. Please note that this organization is not maintained by Cloudberry PPMC.
+> Cloudberry Database has joined the Apache Software Foundation Incubator and has been renamed to `Apache Cloudberry (Incubating)`.
+> See the announcement blog: https://cloudberry.apache.org/blog/cloudberry-database-enters-the-apache-incubator/
 
 
-1. Our main repos have been transferred to ASF, you can find us here:
+1. The main repos have been transferred to ASF, you can find them here:
 
 * https://github.com/apache/cloudberry
 * https://github.com/apache/cloudberry-site
@@ -23,3 +24,6 @@
 - https://www.youtube.com/@ApacheCloudberry
 - https://apache-cloudberry.slack.com
 - https://linkedin.com/company/apache-cloudberry
+
+> [!note]
+> This organization is used to store projects related to Apache Cloudberry that have non-Apache licenses or other third-party tools customized for Apache Cloudberry. Please note that this organization is not maintained by Cloudberry PPMC. 
