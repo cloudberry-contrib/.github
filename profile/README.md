@@ -26,4 +26,6 @@
 - https://linkedin.com/company/apache-cloudberry
 
 > [!note]
-> This organization is used to store projects related to Apache Cloudberry that have non-Apache licenses or other third-party tools customized for Apache Cloudberry. Please note that this organization is not maintained by Cloudberry PPMC. 
+> This organization is used to store projects related to Apache Cloudberry that have non-Apache licenses or other third-party tools customized for Apache Cloudberry. Please note that this organization is not maintained by Cloudberry PPMC.
+>
+> Apache®, Apache Cloudberry™, and the feather logo are either registered trademarks or trademarks of the [Apache Software Foundation](https://www.apache.org/).
